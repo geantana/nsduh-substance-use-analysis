@@ -1,0 +1,32 @@
+# ICPSR data and documentation: redistribution is not allowed (see README)
+*.tsv
+
+# Working files: ICPSR documentation, codebook screenshots, notes and the first-stage report
+proje-dosyaları/
+text.txt
+
+# Duplicate of rapport.pdf
+HasanAlperAYAZ.pdf
+
+# Presentation
+Presentation1.pptx
+Presentation1.pdf
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.fls
+
+# Editor / OS
+.idea/
+.DS_Store
